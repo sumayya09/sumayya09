@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumayya09
 - 👀 I’m interested in application development and program code learning
-- 🌱 I’m currently learning php and thinking about learning flutter or python.
+- 🌱 I’m currently learning vb.net and thinking about learning flutter.
 - 💞️ I’m looking to collaborate on something big i don't know really...
 - 📫 How to reach me 📧 fathimathsumayya09@gmail.com
 
